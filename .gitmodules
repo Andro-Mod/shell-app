@@ -1,0 +1,3 @@
+[submodule "feature_module"]
+	path = feature_module
+	url = git@github.com:Andro-Mod/feature-module.git
